@@ -1,14 +1,11 @@
 # Smart Rock-Paper-Scissors Game with Computer Vision
 Welcome to the Rock, Paper, Scissors game powered by Computer Vision! This exciting project allows you to play a classic hand game against an AI opponent that utilizes computer vision to recognize your moves and play strategically to win.
 
-Table of Contents:
-Introduction
-Features
 
-Introduction
+Introduction:
 This project brings a modern twist to the traditional Rock, Paper, Scissors game. You can now challenge an AI opponent to an exciting game of wits, using your webcam to make your moves. The AI opponent utilizes computer vision to recognize your hand gestures and play its moves accordingly.
 
-Features
+Features:
 1. Computer Vision Recognition
 Real-time Hand Gesture Recognition: The AI opponent uses computer vision to analyze your hand gestures and determine your move.
 Fast and Accurate: The recognition process is swift and highly accurate, ensuring a seamless gaming experience.
